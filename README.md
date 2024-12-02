@@ -7,7 +7,9 @@ This Python program brings the classic "Rock, Paper, Scissors" game to life with
 ## Game Rules:
 The winner is determined by traditional rules:
 **Rock beats Scissors**
+
 **Scissors beats Paper**
+
 **Paper beats Rock**
 
 ## How to Play
