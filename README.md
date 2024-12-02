@@ -6,6 +6,7 @@ This Python program brings the classic "Rock, Paper, Scissors" game to life with
 2) Computer Opponent: The computer randomly selects its choice.
 ## Game Rules:
 The winner is determined by traditional rules:
+
 **Rock beats Scissors**
 
 **Scissors beats Paper**
